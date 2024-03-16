@@ -37,13 +37,4 @@ Learn the domain knowledge of finance and sales like Profit & Loss Statement.
 
 ![model exc](https://github.com/soniya900/ExcelProjects-Atliq-Sales-Analytics/assets/97662516/8ca694d2-18ce-4d0e-8119-5345959b91d6)
 
-# Customer performance report
-![customer-performance report](https://github.com/soniya900/ExcelProjects-Atliq-Sales-Analytics/assets/97662516/18ac9648-3280-4ca3-9873-37cb99fd4d34)
-# Market performance vs Target
-![market-performance](https://github.com/soniya900/ExcelProjects-Atliq-Sales-Analytics/assets/97662516/73eca7d3-1059-4bfe-878a-52ff2dc3a14f)
-# P & L Year
-![P   L ](https://github.com/soniya900/ExcelProjects-Atliq-Sales-Analytics/assets/97662516/4bcf6944-9bd3-4df6-a1eb-c2d06a581bd1)
-# P & L Month
-![pl](https://github.com/soniya900/ExcelProjects-Atliq-Sales-Analytics/assets/97662516/c1fffaf2-5c34-4a49-a181-eb2297849428)
-
-
+ 
